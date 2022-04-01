@@ -23,10 +23,10 @@
     <img src="https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white">
 </p><br>
 
-#### Tools
+### 🙌 Tools
 <p>
-  <img src="https://img.shields.io/badge/git-181717?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브 아이디&show_icons=true&theme=스타일)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyun1215&show_icons=true&theme=dark)
