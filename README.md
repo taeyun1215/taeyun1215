@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaeyun1215&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p>
-  <a href="[https://fresh-cannon-657.notion.site/906e631b08b145f3b0fd49f8785fa710](https://taeyun1215.notion.site/12eebdd0247c46438b718fd86420e99f)" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://taeyun1215.notion.site/12eebdd0247c46438b718fd86420e99f" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   <a href="mailto:taeyun1215@naver.com" target="_blank"><img src="https://img.shields.io/badge/taeyun1215@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 </p>
 
