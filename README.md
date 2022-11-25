@@ -9,7 +9,7 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>backend developer</b> using Java. 🚀<br/>
-  I am currently preparing for a job, and I am completing the backend developer course at Likelion.🦁<br/><br/>
+
 </p>
 
 ### 💪 Skills
